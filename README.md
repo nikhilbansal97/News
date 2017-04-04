@@ -1,2 +1,3 @@
 # News
-Practice News App
+
+>This is a practice app which displays latest news using the GuardianAPI.
